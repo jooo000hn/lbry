@@ -30,6 +30,7 @@ at anytime.
   * Increased max_key_fee
   * Fixed unit tests on appveyor Windows build
   * Fixed [#692](https://github.com/lbryio/lbry/issues/692) 
+  * Fixed incorrect formatting of "amount" fields
 
 ### Deprecated
   *
